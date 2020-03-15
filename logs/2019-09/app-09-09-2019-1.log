@@ -1,0 +1,9 @@
+2019-09-09 08:52:03.361 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10h47m59s897ms). 
+2019-09-09 11:54:23.401 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=24m17s748ms). 
+2019-09-09 12:21:07.457 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=26m44s67ms). 
+2019-09-09 14:40:44.944 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h42m36s822ms). 
+2019-09-09 19:03:28.774 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h41m11s396ms). 
+2019-09-09 22:26:20.235 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h9m50s600ms). 
+2019-09-09 23:25:14.770 [Thread-82] [ExecutorConfigurationSupport.java:208] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-09-09 23:25:14.783 [Thread-82] [HikariDataSource.java:350] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated... 
+2019-09-09 23:25:21.028 [Thread-82] [HikariDataSource.java:352] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed. 

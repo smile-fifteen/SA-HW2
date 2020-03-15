@@ -1,0 +1,8 @@
+2019-09-05 06:45:04.271 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9h8m10s319ms). 
+2019-09-05 08:57:41.406 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h12m37s148ms). 
+2019-09-05 10:49:50.610 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=31m38s542ms). 
+2019-09-05 12:10:39.672 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h20m49s63ms). 
+2019-09-05 15:38:57.680 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h47m46s864ms). 
+2019-09-05 21:52:46.583 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4h44m48s483ms). 
+2019-09-05 22:14:24.645 [http-nio-8080-exec-8] [HelloController.java:21] INFO  com.example.springweb.controller.HelloController - hello logging 
+2019-09-05 23:50:14.770 [HikariPool-2 housekeeper] [HikariPool.java:766] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h27s900ms). 
